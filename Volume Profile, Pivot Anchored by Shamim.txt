@@ -3,7 +3,7 @@
 //# * ══════════════════════════════════════════════════════════════════════════════════════════════
 //# *
 //# * Study 		: Volume Profile, Pivot Anchored
-//# * Author 		: © Trade Genesis
+//# * Author 		: © Trade Genesis Volume Profile, Pivot Achored
 //# *
 //# * Revision History
 //# *	Release 	: Jun 06, 2022 : Initial Release
